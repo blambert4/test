@@ -19,3 +19,5 @@ def print_body():
 		currentnode = currentnode.nextnode
 				
 print_body()
+
+print("olay")
